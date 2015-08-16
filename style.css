@@ -1,0 +1,10 @@
+.wrapper {
+  width: 300px;
+  margin: 0 auto;
+  float: none;
+}
+.wrapper input {
+  border: 1px solid cadetblue;
+  width: 100%;
+  font-size: 2em;
+}

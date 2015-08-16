@@ -1,0 +1,27 @@
+{
+  "name": "clear-input-on-focus",
+  "version": "1.0.0",
+  "description": "Clear Field on Focus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-tutorials/clear-input-on-focus.git"
+  },
+  "keywords": [
+    "clear",
+    "text",
+    "field",
+    "focus",
+    "textbox",
+    "javascript"
+  ],
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-tutorials/clear-input-on-focus/issues"
+  },
+  "homepage": "https://github.com/web-tutorials/clear-input-on-focus#readme"
+}
